@@ -6,6 +6,8 @@ import { AiOutlineAreaChart } from "react-icons/ai";
 import { AiFillFolderOpen } from "react-icons/ai";
 import { BiChevronDown } from "react-icons/bi";
 import img from "../Assets/earl-newell-2021-09-08-02-06-31-6093.jpg";
+import { ProSidebar, Menu, MenuItem, SubMenu } from "react-pro-sidebar";
+import "react-pro-sidebar/dist/css/styles.css";
 const Dashboard = () => {
   return (
     <div>
